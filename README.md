@@ -6,13 +6,13 @@ Se utiliza **PCA** para reducción de dimensionalidad y **K-Means** para identif
 ## 📂 Dataset
 
 El conjunto de datos fue obtenido de Kaggle y contiene 4 variables numéricas:
-CustomerID: Identificador único del cliente.
-Genre: Género del cliente (Male/Female).
-Age: Edad del cliente.
-Annual Income (k$): Ingreso anual en miles de dólares.
-Spending Score (1-100): Puntuación de gasto del cliente (1-100).
+- CustomerID: Identificador único del cliente.
+- Genre: Género del cliente (Male/Female).
+- Age: Edad del cliente.
+- Annual Income (k$): Ingreso anual en miles de dólares.
+- Spending Score (1-100): Puntuación de gasto del cliente (1-100).
 
-El dataset fue limpiado previamente: no contiene valores nulos ni categorías no numéricas.
+-El dataset fue limpiado previamente: no contiene valores nulos ni categorías no numéricas.
 
 
 ## 🧪 Técnicas aplicadas
